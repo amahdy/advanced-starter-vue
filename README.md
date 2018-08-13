@@ -1,6 +1,6 @@
 # Vaadin components with Vue.js
 
-> NOTE: This project will continue on the [Vaadin with Angular Starter App](https://vaadin.com/start/v10-vue). Please download the starter before reading this tutorial.
+> NOTE: This project will continue on the [Vaadin with Vue Starter App](https://vaadin.com/start/v10-vue). Please download the starter before reading this tutorial.
 
 ### Instructions
 
