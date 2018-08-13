@@ -1,27 +1,8 @@
-# Base Starter for Vaadin components with Vue.js
+# Vaadin components with Vue.js
 
-## Prerequisites
+> NOTE: This project will continue on the [Vaadin with Angular Starter App](https://vaadin.com/start/v10-vue). Please download the starter before reading this tutorial.
 
-First [install yarn](https://yarnpkg.com/docs/install).
-
-## Build Setup
-
-``` bash
-# install dependencies
-$ yarn install
-
-# serve with hot reload at localhost:8080
-$ yarn run dev
-
-# build for production with minification
-$ yarn run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-
-## Recreating this project
-This project will continue on the [simple starter app](https://vaadin.com/start/v10-vue) made by Vaadin.
+### Instructions
 
 We will use some extra Vaadin components and iron elements, to install them:
 
